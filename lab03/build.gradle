@@ -12,6 +12,6 @@ dependencies {
 }
 
 application {
-    mainClass = 'lab02.SimpleTest'
-    // mainClass = 'CSVDemo'
+    // mainClass = 'lab02.SimpleTest'
+    mainClass = 'CSVDemo'
 }
